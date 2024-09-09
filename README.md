@@ -1,1 +1,1 @@
-# fix_bug_of_the_application
+# fix_bug_of_the_Java_application
